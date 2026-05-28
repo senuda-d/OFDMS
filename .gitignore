@@ -1,0 +1,27 @@
+# Target directory (Maven build output)
+target/
+*.war
+*.sar
+*.ear
+*.class
+
+# IntelliJ IDEA settings
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionary.xml
+.idea/shelf/
+.idea/contentModel.xml
+*.iws
+out/
+
+# Eclipse settings
+.metadata
+.classpath
+.project
+.settings/
+*.tmp
+*.bak
+*.swp
+
+# Crash dumps and logs
+*.log
